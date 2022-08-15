@@ -6,7 +6,7 @@ import Development from "../../img/development.gif";
 import Ux from "../../img/ux.gif";
 import Misc from "../../img/misc.gif";
 // import Database from "../../img/database.gif";
-import Resume from "./Sumit's Resume.pdf";
+import Resume from "./Sumit's Resume (3).pdf";
 import { motion } from "framer-motion";
 import { themeContext } from "../../Context";
 
