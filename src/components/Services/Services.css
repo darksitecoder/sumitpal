@@ -72,7 +72,7 @@
     width: 16rem;
   }
   .cards {
-     left: -0.8rem;
+     left: -1rem;
     display: flex;
     flex-direction: column;
     gap: 17rem;
