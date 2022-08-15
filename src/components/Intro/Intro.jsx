@@ -3,8 +3,6 @@ import "./Intro.css";
 import Github from "../../img/github.png";
 import Linkedin from "../../img/linkedin.png";
 import Instagram from "../../img/instagram.png";
-import Vector1 from "../../img/Vector1.png";
-import Vector2 from "../../img/Vector2.png";
 import Boy from "../../img/boy.png";
 import thumbup from "../../img/thumbup.png";
 import Crown from "../../img/crown.png";
