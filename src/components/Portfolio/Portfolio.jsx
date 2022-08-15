@@ -3,8 +3,8 @@ import './Portfolio.css';
 import { Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/swiper.min.css';
 import Noot from "../../img/Noot.png";
-import Ecommerce from "../../img/ecommerce.png";
-import HOC from "../../img/hoc.png";
+// import Ecommerce from "../../img/ecommerce.png";
+// import HOC from "../../img/hoc.png";
 import ApplianceRepairSite from "../../img/appliancerepairsite.png";
 import { themeContext } from "../../Context";
 
@@ -39,12 +39,12 @@ const Portfolio = () => {
         
             </SwiperSlide>
 
-                <SwiperSlide><img src={Ecommerce} alt="" /></SwiperSlide>
+//                 <SwiperSlide><img src={Ecommerce} alt="" /></SwiperSlide>
 
                 <SwiperSlide ><a href="https://magicrepairs.in/" target="_blank"
             rel="noopener noreferrer"><img src={ApplianceRepairSite} alt="" /></a></SwiperSlide>
 
-                <SwiperSlide><img src={HOC} alt="" /></SwiperSlide>     
+//                 <SwiperSlide><img src={HOC} alt="" /></SwiperSlide>     
                 <SwiperSlide style={{paddingRight:'200px'}}></SwiperSlide>            
         </Swiper>
         </div>
