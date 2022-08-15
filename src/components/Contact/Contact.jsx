@@ -71,7 +71,7 @@ const Contact = () => {
             style={{ background: "var(--purple)" }}
           ></div>
         </form>
-        {<span>{done && "Thanks for Contacting me"}</span>}
+         <span style={{color: "var(--orange)", fontSize: "21px", textAlign: 'center'}}>{done && "Thanks for Contacting me ❤️"}</span>
       </div>
     </div>
   );
