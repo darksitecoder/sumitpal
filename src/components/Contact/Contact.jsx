@@ -65,7 +65,7 @@ const Contact = () => {
        
           <motion.button  whileHover={{scale:1.1}}
         whileTap={{ scale:0.9 }} type="submit" value="Send" className="button" >Send</motion.button>
-        <button type="submit" value="submit" className="button" style={{background: "transparent", border: "none", boxShadow:'none'}}></button>
+        <button type="submit" value="submit" className="button" style={{background: "transparent", border: "none", boxShadow:'none', cursor: "none"}}></button>
           <div
             className="blur c-blur1"
             style={{ background: "var(--purple)" }}
