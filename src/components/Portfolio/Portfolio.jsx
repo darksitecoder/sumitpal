@@ -46,7 +46,7 @@ const Portfolio = () => {
               <SwiperSlide ><a href="https://bookmandir.vercel.app/" target="_blank"
             rel="noopener noreferrer"><img src={BookMandir} alt="" /></a></SwiperSlide>
               
-                <SwiperSlide style={{paddingRight:'200px'}}>efdef</SwiperSlide>            
+                <SwiperSlide style={{paddingRight:'200px'}}></SwiperSlide>            
         </Swiper>
         </div>
         </div>
