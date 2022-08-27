@@ -49,8 +49,7 @@ const Portfolio = () => {
               <SwiperSlide ><a href="https://advices-app.netlify.app/" target="_blank"
             rel="noopener noreferrer"><img src={Advisory} alt="" /></a></SwiperSlide>
               
-              
-                <SwiperSlide style={{paddingRight:'20px'}}></SwiperSlide>            
+                     
         </Swiper>
         </div>
         </div>
