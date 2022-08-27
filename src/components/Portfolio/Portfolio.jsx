@@ -3,6 +3,8 @@ import './Portfolio.css';
 import { Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/swiper.min.css';
 import Noot from "../../img/Noot.png";
+import BookMandir from "../../img/BookMandir.png";
+
 import ApplianceRepairSite from "../../img/appliancerepairsite.png";
 import { themeContext } from "../../Context";
 
@@ -41,7 +43,10 @@ const Portfolio = () => {
                 <SwiperSlide ><a href="https://magicrepairs.in/" target="_blank"
             rel="noopener noreferrer"><img src={ApplianceRepairSite} alt="" /></a></SwiperSlide>
    
-                <SwiperSlide style={{paddingRight:'200px'}}></SwiperSlide>            
+              <SwiperSlide ><a href="https://bookmandir.vercel.app/" target="_blank"
+            rel="noopener noreferrer"><img src={BookMandir} alt="" /></a></SwiperSlide>
+              
+                <SwiperSlide style={{paddingRight:'200px'}}>efdef</SwiperSlide>            
         </Swiper>
         </div>
         </div>
